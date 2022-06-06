@@ -5,7 +5,7 @@ This system was built with a real-life optical store called "Mujnabin Optics" in
 
 ## TOOLS AND TECHNOLOGY
 - Java Swing
-  - * Additional Libraries Used *
+  - *Additional Libraries Used*
       - JCalender
       - Apache POI
       - Apache PDFBox
