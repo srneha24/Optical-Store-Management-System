@@ -13,4 +13,4 @@ This system was built with a real-life optical store called "Mujnabin Optics" in
 - MySQL
 
 ## SYSTEM ARCHTECTURE
-![System Archtechture](docs%5Cimages%5CDiagram%20Zero.jpg)
+![System Archtechture](docs/images/Diagram%20Zero.jpg)
